@@ -1,0 +1,8 @@
+pm8916_bms_vm
+pm8916_lbc
+libcomposite
+u_ether
+usb_f_rndis
+drm_dma_helper
+drm_mipi_dbi
+panel-mipi-dbi

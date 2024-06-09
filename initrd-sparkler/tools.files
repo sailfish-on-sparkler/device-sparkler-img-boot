@@ -1,0 +1,10 @@
+/lib/firmware/nokia,sparkler-gc9307-hlt-28-panel.bin
+/lib/modules/*/kernel/drivers/gpu/drm/drm_dma_helper.ko
+/lib/modules/*/kernel/drivers/gpu/drm/drm_mipi_dbi.ko
+/lib/modules/*/kernel/drivers/gpu/drm/tiny/panel-mipi-dbi.ko
+/lib/modules/*/kernel/drivers/power/supply/pm8916_bms_vm.ko
+/lib/modules/*/kernel/drivers/power/supply/pm8916_lbc.ko
+/lib/modules/*/kernel/drivers/usb/gadget/function/u_ether.ko
+/lib/modules/*/kernel/drivers/usb/gadget/function/usb_f_rndis.ko
+/lib/modules/*/kernel/drivers/usb/gadget/libcomposite.ko
+lib/modules/modules.load.recovery

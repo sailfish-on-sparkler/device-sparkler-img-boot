@@ -1,0 +1,6 @@
+[submodule "device-img-boot-mainline"]
+	path = device-img-boot-mainline
+	url = https://github.com/sailfish-on-sparkler/device-img-boot-mainline.git
+[submodule "initrd"]
+	path = initrd
+	url = https://github.com/mer-hybris/hybris-initrd.git
