@@ -14,7 +14,7 @@
 %define display_brightness_path /sys/class/backlight/backlight/brightness
 %define display_brightness 1
 
-%define lvm_root_size 2400
+%define lvm_root_size 1400
 
 %define initrd_use_lz4 1
 
